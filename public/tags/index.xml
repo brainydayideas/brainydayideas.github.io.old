@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Brainy Day Ideas</title>
-    <link>https://www.brainydayideas.com/tags/</link>
+    <link>http://www.brainydayideas.com/tags/</link>
     <description>Recent content in Tags on Brainy Day Ideas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 21 Sep 2018 06:50:00 -0400</lastBuildDate>
     
-	<atom:link href="https://www.brainydayideas.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.brainydayideas.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Active</title>
-      <link>https://www.brainydayideas.com/tags/active/</link>
+      <link>http://www.brainydayideas.com/tags/active/</link>
       <pubDate>Fri, 21 Sep 2018 06:50:00 -0400</pubDate>
       
-      <guid>https://www.brainydayideas.com/tags/active/</guid>
+      <guid>http://www.brainydayideas.com/tags/active/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Art</title>
-      <link>https://www.brainydayideas.com/tags/art/</link>
+      <link>http://www.brainydayideas.com/tags/art/</link>
       <pubDate>Fri, 21 Sep 2018 06:50:00 -0400</pubDate>
       
-      <guid>https://www.brainydayideas.com/tags/art/</guid>
+      <guid>http://www.brainydayideas.com/tags/art/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cooking</title>
-      <link>https://www.brainydayideas.com/tags/cooking/</link>
+      <link>http://www.brainydayideas.com/tags/cooking/</link>
       <pubDate>Fri, 21 Sep 2018 06:50:00 -0400</pubDate>
       
-      <guid>https://www.brainydayideas.com/tags/cooking/</guid>
+      <guid>http://www.brainydayideas.com/tags/cooking/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Diy</title>
-      <link>https://www.brainydayideas.com/tags/diy/</link>
+      <link>http://www.brainydayideas.com/tags/diy/</link>
       <pubDate>Fri, 21 Sep 2018 06:50:00 -0400</pubDate>
       
-      <guid>https://www.brainydayideas.com/tags/diy/</guid>
+      <guid>http://www.brainydayideas.com/tags/diy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lego</title>
-      <link>https://www.brainydayideas.com/tags/lego/</link>
+      <link>http://www.brainydayideas.com/tags/lego/</link>
       <pubDate>Fri, 21 Sep 2018 06:50:00 -0400</pubDate>
       
-      <guid>https://www.brainydayideas.com/tags/lego/</guid>
+      <guid>http://www.brainydayideas.com/tags/lego/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Music</title>
-      <link>https://www.brainydayideas.com/tags/music/</link>
+      <link>http://www.brainydayideas.com/tags/music/</link>
       <pubDate>Fri, 21 Sep 2018 06:50:00 -0400</pubDate>
       
-      <guid>https://www.brainydayideas.com/tags/music/</guid>
+      <guid>http://www.brainydayideas.com/tags/music/</guid>
       <description></description>
     </item>
     
