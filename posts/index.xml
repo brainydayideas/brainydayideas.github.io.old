@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Brainy Day Ideas</title>
+    <link>http://www.brainydayideas.com/posts/</link>
+    <description>Recent content in Posts on Brainy Day Ideas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Sep 2018 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="http://www.brainydayideas.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Imagination, Patterns, and Patience with Perler Beads</title>
+      <link>http://www.brainydayideas.com/posts/perler-beads/</link>
+      <pubDate>Wed, 03 Oct 2018 06:50:00 -0400</pubDate>
+      
+      <guid>http://www.brainydayideas.com/posts/perler-beads/</guid>
+      <description>If you grew up in the 80s or 90s, there&amp;rsquo;s a good chance you&amp;rsquo;re familiar with Perler beads already. Growing up, we called them Perler beads, but they seem to go by many other different names now too, such as Hama beads, fuse beads, and melty beads. I bought a big bucket of them for my daughters about a year ago. If I&amp;rsquo;m being honest, I bought them for my own enjoyment as much as for the kids, and they have led to countless hours of fun as the girls sift and sort through the beads to find just the right colors and carefully place each one.</description>
+    </item>
+    
+    <item>
+      <title>DIY.org - New Skills, Patches, and Internet Citizenship</title>
+      <link>http://www.brainydayideas.com/posts/diy-skills-patches-internet-citizenship/</link>
+      <pubDate>Fri, 21 Sep 2018 06:50:00 -0400</pubDate>
+      
+      <guid>http://www.brainydayideas.com/posts/diy-skills-patches-internet-citizenship/</guid>
+      <description>A few years ago, while searching for an alternative to Girl Scouts, we came across DIY.org. DIY is an online community for school-aged kids, where they can complete challenges centered around dozens of skills. Once they complete 3 or more challenges within a particular skill category, they earn a patch. DIY itself is free (awesome!), and the pride of earning a virtual patch is a reward in itself. For a few dollars, you can purchase an embroidered hexagonal patch for any skill where your child has earned a patch.</description>
+    </item>
+    
+  </channel>
+</rss>
