@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geocaching on Brainy Day Ideas</title>
+    <link>http://www.brainydayideas.com/tags/geocaching/</link>
+    <description>Recent content in Geocaching on Brainy Day Ideas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 Jan 2019 06:50:00 -0400</lastBuildDate>
+    
+	<atom:link href="http://www.brainydayideas.com/tags/geocaching/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>5 Reasons Geocaching is Great for Kids</title>
+      <link>http://www.brainydayideas.com/posts/geocaching-with-kids/</link>
+      <pubDate>Sun, 27 Jan 2019 06:50:00 -0400</pubDate>
+      
+      <guid>http://www.brainydayideas.com/posts/geocaching-with-kids/</guid>
+      <description>My husband and I got into geocaching in 2006, a few years before our oldest was born. Since it&amp;rsquo;s one of our favorite hobbies, our kids have been going along with us on geocaching outings their entire lives. If you&amp;rsquo;re not familiar with it, geocaching is an outdoor activity, where you use a GPS device (or smartphone app) to find hidden containers. The containers are called geocaches, and we&amp;rsquo;ve seen ones that range in size from less than half an inch tall to as large as a storage trunk.</description>
+    </item>
+    
+  </channel>
+</rss>

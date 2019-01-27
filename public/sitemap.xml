@@ -3,6 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.brainydayideas.com/posts/geocaching-with-kids/</loc>
+    <lastmod>2019-01-27T06:50:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.brainydayideas.com/posts/perler-beads/</loc>
+    <lastmod>2018-10-03T06:50:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://www.brainydayideas.com/posts/diy-skills-patches-internet-citizenship/</loc>
     <lastmod>2018-09-21T06:50:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -24,27 +38,34 @@
   
   <url>
     <loc>http://www.brainydayideas.com/tags/active/</loc>
-    <lastmod>2018-09-21T06:50:00-04:00</lastmod>
+    <lastmod>2019-01-27T06:50:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.brainydayideas.com/tags/art/</loc>
-    <lastmod>2018-09-21T06:50:00-04:00</lastmod>
+    <lastmod>2018-10-03T06:50:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.brainydayideas.com/</loc>
-    <lastmod>2018-09-21T06:50:00-04:00</lastmod>
+    <lastmod>2019-01-27T06:50:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.brainydayideas.com/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.brainydayideas.com/tags/community/</loc>
+    <lastmod>2019-01-27T06:50:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -57,8 +78,22 @@
   </url>
   
   <url>
+    <loc>http://www.brainydayideas.com/tags/crafts/</loc>
+    <lastmod>2018-10-03T06:50:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.brainydayideas.com/tags/diy/</loc>
     <lastmod>2018-09-21T06:50:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.brainydayideas.com/tags/geocaching/</loc>
+    <lastmod>2019-01-27T06:50:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -78,8 +113,22 @@
   </url>
   
   <url>
+    <loc>http://www.brainydayideas.com/tags/outside/</loc>
+    <lastmod>2019-01-27T06:50:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.brainydayideas.com/tags/perler-beads/</loc>
+    <lastmod>2018-10-03T06:50:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.brainydayideas.com/tags/</loc>
-    <lastmod>2018-09-21T06:50:00-04:00</lastmod>
+    <lastmod>2019-01-27T06:50:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
